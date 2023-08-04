@@ -8,6 +8,6 @@ module.exports = {
 
    //url:"mongodb+srv://Blessing:crLlpnzOKuPjUPvz@cluster0.pzwkbe4.mongodb.net/Tutorial?retryWrites=true&w=majority"
 
-url:"mongodb+srv://xinpin:SIFMcN8lE7X9oM61@cluster0.biklbuy.mongodb.net/DressStore?retryWrites=true&w=majority"
+url:"mongodb+srv://xinpin:SIFMcN8lE7X9oM61@cluster0.biklbuy.mongodb.net/SportStore?retryWrites=true&w=majority"
 
 };
