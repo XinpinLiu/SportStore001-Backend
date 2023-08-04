@@ -105,8 +105,10 @@ db.mongoose
 }
 
 var corsOptions = {
+  //https://sage-daifuku-797d78.netlify.app/
 
- origin: ["http://localhost:8081"],  
+ //origin: ["http://localhost:8081"],  
+ origin: ["https://sage-daifuku-797d78.netlify.app/"],  
 credentials: true
 
 
